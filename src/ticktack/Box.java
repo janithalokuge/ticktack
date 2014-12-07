@@ -11,7 +11,7 @@ public class Box{
     ///private int user_machine; 
     private boolean used = false;
     private int giteee;
-    int wehVE;
+ 
 
     
     public Box(int x, int y, int state) {
