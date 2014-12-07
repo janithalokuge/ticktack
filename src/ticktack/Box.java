@@ -10,6 +10,7 @@ public class Box{
     private int state = -1;          
     ///private int user_machine; 
     private boolean used = false;
+    private int giteee;
 
     
     public Box(int x, int y, int state) {
