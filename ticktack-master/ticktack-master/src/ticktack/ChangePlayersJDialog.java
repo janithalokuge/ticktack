@@ -124,7 +124,7 @@ public class ChangePlayersJDialog extends javax.swing.JDialog {
     private void enterButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_enterButtonActionPerformed
         // TODO add your handling code here:
         if (i == 2) {
-            player1.setName(player1TextField.getText());
+            player1.setName(player1TextField.getText()); //delete kalaa
             player2.setName(player2TextField.getText());
             this.setVisible(false);
         }
